@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="raxiwin mobile gaming experience illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5f5"/><stop offset="1" stop-color="#ffe2e2"/></linearGradient>
+    <linearGradient id="ph" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1a22"/><stop offset="1" stop-color="#0a0a10"/></linearGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e10b1f"/><stop offset="1" stop-color="#ff5566"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g opacity=".5">
+    <circle cx="120" cy="110" r="60" fill="#ffd0d6"/>
+    <circle cx="700" cy="380" r="90" fill="#ffd0d6"/>
+    <circle cx="650" cy="80" r="20" fill="#e10b1f"/>
+  </g>
+  <g transform="translate(300 60)">
+    <rect width="200" height="380" rx="32" fill="url(#ph)"/>
+    <rect x="10" y="14" width="180" height="352" rx="22" fill="#fff"/>
+    <rect x="10" y="14" width="180" height="90" rx="22" fill="url(#scr)"/>
+    <text x="100" y="62" text-anchor="middle" font-family="Inter,Arial" font-weight="800" font-size="18" fill="#fff">raxiwin</text>
+    <text x="100" y="84" text-anchor="middle" font-family="Inter,Arial" font-size="11" fill="#fff" opacity=".9">Skill-based gaming</text>
+    <g font-family="Inter,Arial" font-size="11" fill="#222">
+      <rect x="24" y="120" width="152" height="40" rx="10" fill="#fff5f5" stroke="#ffd6da"/>
+      <text x="36" y="145">Daily Tournaments</text>
+      <rect x="24" y="170" width="152" height="40" rx="10" fill="#fff5f5" stroke="#ffd6da"/>
+      <text x="36" y="195">Community Leagues</text>
+      <rect x="24" y="220" width="152" height="40" rx="10" fill="#fff5f5" stroke="#ffd6da"/>
+      <text x="36" y="245">Live Leaderboards</text>
+      <rect x="24" y="270" width="152" height="60" rx="12" fill="#e10b1f"/>
+      <text x="100" y="305" text-anchor="middle" fill="#fff" font-weight="700">Play Now</text>
+    </g>
+  </g>
+</svg>

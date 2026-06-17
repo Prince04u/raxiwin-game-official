@@ -1,0 +1,17 @@
+{
+  "name": "raxiwin",
+  "short_name": "raxiwin",
+  "description": "raxiwin gaming application \u2014 skill-based mobile gaming platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e10b1f",
+  "icons": [
+    {
+      "src": "/assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
